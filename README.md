@@ -57,7 +57,8 @@ No partners we used.
 
 I used Wikipedia for the A* pseudocode. The simulations were made int the Unity Engine 2021.3.10f1. The UnityEngine and Cinnemachine libraries were used. Models were all from the Unity Asset Store.
 
-Art contest submission
+Art contest submission:
+Nebula Stellar Nursery
 ![Too Many Suns](https://user-images.githubusercontent.com/47149695/193377270-f60c7fd3-dfcb-4006-9eb6-075790cd1a80.png)
 
 These people should have access to the code. If you are not on this list let me know and I can add you!
