@@ -18,7 +18,7 @@ David Buyck
 - User Scenario Editing+
 - Realtime User Interaction
 
-[![Part 2](https://img.youtube.com/vi/_8xT1WpiBYc/0.jpg)](https://www.youtube.com/watch?v=_8xT1WpiBYc)
+[![Part 2](https://img.youtube.com/vi/iGEM7R6mYZI/0.jpg)](https://www.youtube.com/watch?v=iGEM7R6mYZI)
 
 ### Single Agent Navigation
 A 3D ship is the agent that navigates from space station to space station on its way to Earth. The stars are obsitcles. A* is used to ensure there are no collisions and the path to the Earth is optimal along the graph created by the space stations.
@@ -44,7 +44,7 @@ Just as stated above, the user can fly the ship with the WASDQE keys and the spa
 
 ## Part 3
 
-[![Part 3](https://img.youtube.com/vi/_8xT1WpiBYc/0.jpg)](https://www.youtube.com/watch?v=_8xT1WpiBYc)
+[![Part 3](https://img.youtube.com/vi/6wyiY0b3XRw/0.jpg)](https://www.youtube.com/watch?v=6wyiY0b3XRw)
 
 The first interesting scenario is where the birds avoid the trees while flying out of the forrest. The second interesting scenario is where the birds fly up a hill ascending with the hills slope. 
 
