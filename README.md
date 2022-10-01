@@ -59,3 +59,6 @@ I used Wikipedia for the A* pseudocode. The simulations were made int the Unity 
 
 Art contest submission
 ![Too Many Suns](https://user-images.githubusercontent.com/47149695/193377270-f60c7fd3-dfcb-4006-9eb6-075790cd1a80.png)
+
+These people should have access. If you are not on this list let me know and I can add you!
+![Access](https://user-images.githubusercontent.com/47149695/193378580-725bfc60-68fe-4330-bdb8-afa4fae86e5e.png)
